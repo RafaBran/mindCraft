@@ -1,0 +1,37 @@
+.containner3 {
+    width: 100%;
+    background-color: var(--cor-de-fundo-3);
+}
+
+.portfolio {
+    width: 100%;
+    height: 100vh;
+}
+
+.decoration2 {
+    width: 60%;
+    position: relative;
+    left: 44%;
+    top: 5%;
+}
+
+.portfolio__titulo {
+    color: var(--azul-pastel);
+    font-family: var(--fonte-primaria);
+    font-size: 3em;
+    text-transform: uppercase;
+    position: relative;
+    left: 3%;
+    font-weight: bold;
+}
+
+.portfolio__texto {
+    color: var(--azul-pastel);
+    font-family: var(--fonte-primaria);
+    font-size: 2em;
+    text-transform: uppercase;
+    position: relative;
+    left: 3%;
+    font-weight: bold;
+}
+
