@@ -31,6 +31,21 @@
     transition: 1s;
 }
 
+.front-page__frase {
+    height: 20vh;
+    margin: 1em;
+    color: var(--cor-de-fundo-3);
+    font-family: var(--fonte-primaria);
+    font-weight: bolder;
+    text-align: justify;
+    font-size: 1em;
+    justify-content: center;
+}
+
+span {
+    margin-left: 70%;
+}
+
 .main__conteudo-principal_banner {
     width: 75%;
     height: 100%;
@@ -41,9 +56,6 @@
     margin:1rem 3rem 0.3rem 3rem;
     font-size:1.5rem;
     border: 1px solid var(--azul-pastel-escuro);
-    background-image: url(../images/ensino.jpg);
-    background-position: center;
-    background-size: cover;
     border: 2px solid var(--azul-destaque);
     backdrop-filter: blur(50px);
 }

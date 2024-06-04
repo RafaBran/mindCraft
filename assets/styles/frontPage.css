@@ -5,35 +5,25 @@
 
 .front-page {
     width: 100%;
-    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: flex-end;
 }
 
-span {
-    color: var(--cor-de-fundo-3);
-    font-family: var(--fonte-primaria);
-    font-size: 30px;
-    margin-left: 80%;
-    margin-bottom: 16%;
-
-}
-
-.front-page__frase {
+.front-page__titulo {
+    height: 20vh;
     color: var(--azul-destaque);
     font-family: var(--fonte-primaria);
+    font-weight: bolder;
     text-align: center;
-    font-size: 40px;
+    font-size: 4em;
     justify-content: center;
-    margin-bottom: 15%;
-  
+    line-height: 3em;
 }
 
 .front-page__frase_autor {
     color: var(--azul-claro);
     font-family: var(--fonte-primaria);
     font-size: 40px;
-    text-align: right;
 }
 
