@@ -1,4 +1,3 @@
-
 function fred() {
     const conteudoContainner = document.querySelector(".main__conteudo-principal_banner");
     conteudoContainner.innerHTML = `

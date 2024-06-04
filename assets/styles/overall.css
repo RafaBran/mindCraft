@@ -6,6 +6,7 @@
 @import url(arrowAnimation.css);
 @import url(resetrafa.css);
 @import url(swiper.css);
+@import url(avaliacao.css);
 
 /* fontes ______________________________________________________________________________________________________________________________*/
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,400;1,600&family=Inter:wght@400;700&display=swap');
@@ -84,4 +85,3 @@ body::-webkit-scrollbar {
 .containner {
     width: 100%;
 }
-

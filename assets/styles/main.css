@@ -41,6 +41,11 @@
     margin:1rem 3rem 0.3rem 3rem;
     font-size:1.5rem;
     border: 1px solid var(--azul-pastel-escuro);
+    background-image: url(../images/ensino.jpg);
+    background-position: center;
+    background-size: cover;
+    border: 2px solid var(--azul-destaque);
+    backdrop-filter: blur(50px);
 }
 
 .main__conteudo-principal_banner::-webkit-scrollbar {
